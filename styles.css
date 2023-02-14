@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  /* max-width: 900px; */
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #216869;
+}
+
+.quiz-box {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #1f2421;
+  padding: 1rem 5rem 5rem 5rem;
+  border-radius: 5px;
+  text-align: center;
+  color: #dce1de;
+}
